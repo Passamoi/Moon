@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Miyazaki en 8-bit"
-image: ''
+image: 'https://i.ibb.co/zJSDpXR/capture-d-ecc81cran-2014-09-10-acc80-18-42-45.png'
 date:   2014-09-10 16:41:31
-excerpt: ![Miyazaki pixelart](https://i.ibb.co/zJSDpXR/capture-d-ecc81cran-2014-09-10-acc80-18-42-45.png)
+excerpt: ''
 tags:
 - Pixel ピクセル (Pikuseru)
 description: ''
