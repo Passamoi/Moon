@@ -15,6 +15,8 @@ _initialement publié sur le blog de la FMSH_
 
 ![Atlas](https://i.ibb.co/LP0BGBT/Charlton-Hestonbig.jpg)
 
+[**Résumé d'un working paper disponible sur les archives ouvertes HALSHS**](http://halshs.archives-ouvertes.fr/FMSH-WP)
+
 Le roman, la pièce de théâtre et le film sont envisagés comme trois types de récits ayant des traits communs et des particularités. Le cinéma emprunte à la littérature ses éléments narratifs essentiels (l’intrigue, le personnage, le temps, l’espace) et au théâtre le principe de la représentation qui consiste à montrer les choses au lieu de les raconter. Ce principe implique la présence du spectateur ainsi que des techniques complémentaires au texte : jeu d’acteurs, costumes, décors, son, éclairage, image pour le cinéma qui lui permet de se passer des commentaires du narrateur ou de les compléter par des effets visuels. Ayant surmonté quelques contraintes théâtrales (l’espace scénique limité, le décor symbolique, le jeu frontal et statique des acteurs) le cinéma, comme tout art de la représentation, n’échappe pas à la contrainte de temps.
 
 ## L’auteur
