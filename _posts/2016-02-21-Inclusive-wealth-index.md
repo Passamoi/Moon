@@ -4,7 +4,7 @@ title:  "The Inclusive Wealth Index. A Sustainability Indicator, Really?"
 image: ''
 date:   2016-02-21 18:06:31
 tags:
-- LIFE ライフスタイル
+- WORK 作業(Sagyō)
 description: ''
 categories:
 - ''
@@ -14,6 +14,8 @@ categories:
 _initialement publié sur le blog de la FMSH_ 
 
 ![Atlas](https://i.ibb.co/1Rs1fJ7/Atlas-Schloss-Linderhof.jpg)
+
+[**Résumé d'un working paper disponible sur les archives ouvertes HALSHS**](http://halshs.archives-ouvertes.fr/FMSH-WP)
 
 ## Abstract
 
@@ -30,5 +32,3 @@ Text written in the frame of the Chaire of Dominique Méda « Reconversion écol
 ## Résumé
 
 Dans le paysage des propositions de comptabilité nationale rénovée et de nouveaux indicateurs de bienêtre et de soutenabilité, l’approche de la Richesse Inclusive (Inclusive Wealth Framework) et l’Indicateur de Richesse Inclusive qui lui est associé, lancés en juin 2012 pendant le sommet «Rio + 20», sont particulièrement en vue. Construit à la confluence de l’économie du bien-être, de l’économie du développement et de l’économie de la soutenabilité, l’indicateur est supposé informer, de manière exhaustive (inclusive), sur la richesse des nations et leur soutenabilité. Mais le cadre d’analyse de la Richesse Inclusive présente de nombreux problèmes liés à ses hypothèses et à des insuffisances dans la disponibilité des données. Nous montrons que ces problèmes empêchent l’IWI d’atteindre les objectifs de ses auteurs. Plus fondamentalement, l’IWI ne satisfait pas les conditions d’un bon indicateur de soutenabilité. Nous mettons en question les prétentions de l’économie (néoclassique) à pouvoir traiter des enjeux complexes, incertains et variés, notamment à l’aide d’hypothèses de non-optimalité. Nous évoquons ensuite des pistes de recherche alternatives, dont les fondements nous semblent plus à même de développer une approche forte de la soutenabilité dans une perspective moins économiciste. Le choix de nouveaux indicateurs de prospérité ne doit pas reposer sur des critères d’élégance formelle ou de prétendue cohérence théorique.
-
-[Pour télécharger ce document sur HALSHS](https://halshs.archives-ouvertes.fr/FMSH-WP/halshs-01011250)
