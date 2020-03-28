@@ -12,6 +12,7 @@ categories:
 
 _Initialement publié sur le blog de la FMSH_
 ![elseedparis13](https://i.ibb.co/KGgpBCt/elseedparis13.jpg)
+[**Résumé d'un working paper disponible sur les archives ouvertes HALSHS**](http://halshs.archives-ouvertes.fr/FMSH-WP)
 
 ## Résumé
 
@@ -28,5 +29,3 @@ Texte rédigé dans le cadre du séminaire Non lieux de l’exil, présenté lor
 ## Abstract
 
 The relationship between exile and street art is complex. On one hand, street artists resemble the migrants whose perpetual state of nomadism characterizes the contemporary world. On the other hand, street art has its own purposes for existing that do not always coincide with that of exiled artists. In this text, the author tests the correlations between street art and exile. Firstly, he explores the internal potentialities of street art as an artistic genre that could allow it to be considered as an art of exile. Then, he studies the figures of exile that one can observe in the work of street artists.
-
-[Télécharger sur les Archives ouvertes halshs](https://halshs.archives-ouvertes.fr/FMSH-WP/halshs-01011785)
