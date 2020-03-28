@@ -30,5 +30,3 @@ L’auteur a bénéficié d’une bourse Fernand Braudel IFER en 2011-2012.
 ## Abstract
 
 A novel, a theatre play and a movie are considered as three narrative forms having common features and particularities. The cinema borrows from literature its essential narrative elements (intrigue, character, time, space) and borrows from the theatre the principle of performance, which consists in showing things instead of telling them. This principle implies the presence of the audience as well as techniques complementary to the text : actors, costumes, scenery, sound, lighting, moving picture in the cinema that makes unnecessary narrative comments or supplement them with visual effects. Having overcome some theatrical constraints (limited scenic space, symbolic scenery, frontal and static acting) the cinema, like any art of performance, cannot escape the time constraint.
-
-[Pour télécharger ce document sur HALSHS](http://halshs.archives-ouvertes.fr/FMSH-WP)
