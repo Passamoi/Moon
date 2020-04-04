@@ -3,8 +3,6 @@ layout: post
 title:  "GTA V Trailer"
 image: ''
 date:   2014-07-12 17:08:31
-excerpt: "GTA V se dévoile un peu plus dans une nouvelle vidéo et ce qu’on peut dire c’est que les petits gars de Rockstar n’ont pas fait les choses à moitié."
-project: true
 tags:
 - LIFE ライフスタイル
 ---
