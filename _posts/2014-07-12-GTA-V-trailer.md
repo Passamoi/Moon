@@ -1,8 +1,9 @@
 ---
-layout: project
+layout: post
 title:  "GTA V Trailer"
 image: ''
 date:   2014-07-12 17:08:31
+project: true
 tags:
 - LIFE ライフスタイル
 description: ''
